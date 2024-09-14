@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MerylStryfe. commandergoo everywhere else
 - 👀 I’m interested in Well . i like zelda .
-- 🌱 I’m currently learning python, renpy, c#, and c++
+- 🌱 I’m currently learning python, renpy, SQL, c#, and c++
 - 💞️ I’m looking to collaborate on video game projects :)
 - 📫 How to reach me message me on tumblr @commander-goo
 - 😄 Pronouns: she/they
